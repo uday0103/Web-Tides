@@ -49,7 +49,9 @@ We believe in clean design, powerful code, and client-first solutions.
 - **Google Fonts** for typography  
 - **Git & GitHub** for version control
 
----## 📸 Website Preview
+## 📸 Website Preview
+
+
 <img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/2995f0c6-93b9-48ba-98cf-87af66249e0a" />
 <img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/06486cb4-a6d4-4608-b819-40d42c0f3262" />
 <img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/403b2c7c-afd9-4293-8d32-f3c822bde543" />
