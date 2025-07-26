@@ -67,6 +67,16 @@ We believe in clean design, powerful code, and client-first solutions.
    ```bash
    git clone https://github.com/your-username/webtides-website.git
 
+## 🙋‍♂️ Developed By
+
+**Uday Kumar Botlagunta**  
+Founder @ WebTides | B.Tech CSE, PACE Institute of Technology and Sciences  
+📧 [udayckumar@gmail.com](mailto:udayckumar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/uday-kumar-0b5564348/)  
+💻 [GitHub](https://github.com/uday0103)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/uday0103)   
+
 ## 📁 Project Structure
 
 ```bash
@@ -86,13 +96,5 @@ webtides-website/
 
 ---
 
-## 🙋‍♂️ Developed By
 
-**Uday Kumar Botlagunta**  
-Founder @ WebTides | B.Tech CSE, PACE Institute of Technology and Sciences  
-📧 [udayckumar@gmail.com](mailto:udayckumar@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/uday-kumar-0b5564348/)  
-💻 [GitHub](https://github.com/uday0103)
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/uday0103)
 
