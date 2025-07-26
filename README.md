@@ -83,3 +83,16 @@ webtides-website/
 │   ├── images/             # Banners, logo, service icons
 │   └── icons/
 ├── README.md               # Project documentation
+
+---
+
+## 🙋‍♂️ Developed By
+
+**Uday Kumar Botlagunta**  
+Founder @ WebTides | B.Tech CSE, PACE Institute of Technology and Sciences  
+📧 [udayckumar@gmail.com](mailto:udayckumar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/uday-kumar-0b5564348/)  
+💻 [GitHub](https://github.com/uday0103)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/uday0103)
+
