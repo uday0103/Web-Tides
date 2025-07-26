@@ -49,7 +49,21 @@ We believe in clean design, powerful code, and client-first solutions.
 - **Google Fonts** for typography  
 - **Git & GitHub** for version control
 
----
+---## 📸 Website Preview
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/2995f0c6-93b9-48ba-98cf-87af66249e0a" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/06486cb4-a6d4-4608-b819-40d42c0f3262" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/403b2c7c-afd9-4293-8d32-f3c822bde543" />
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/00970ab6-9aec-421d-b1f6-a897d9eac30b" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/614ab4c4-26ea-4236-a0a6-7248831b6700" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/f35fb97a-4c56-46a6-801f-8ffbab5517a4" />
+
+
+
+## 💡 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/webtides-website.git
 
 ## 📁 Project Structure
 
