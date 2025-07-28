@@ -4,7 +4,10 @@
 
 ## 🚀 Live Demo
 
-Check out the live version of this project: [Live Site](https://webtides.netlify.app/)
+🎯 Try out the WebTides in real time! It is Our Start-up Website..............✨
+
+🔗 **Frontend** (User Interface):  
+[🌐 Open Live Site](https://webtides.netlify.app/)
 
 # 🌐 WebTides - Empowering Digital Presence
 
